@@ -185,29 +185,53 @@ The show will feature ground-breaking new ideas with emerging digital technologi
 				</div>
 				<!-- /MODULE TITLE -->
 	       </div>
-          
+             
+<div id="video-container">
+  <video id='video' width="100%" height="350" autoplay muted="muted" loop>
+    <source src="./img/common/teaser.webm" type="video/webm" />
+    Your browser does not support video.
+  </video>
+  <div id="video-description">
+    <h2 id="video-description-text">Graduate Projects</h2>
+  </div>
+</div>
 
-      
-      
-        
-   <div class="container-fluid" style="padding-left:0px;padding-right:0px;">
+<style>
+  @font-face 
+  {
+    font-family: 'futura';
+    src: url('../fonts/futura.ttf') format('truetype');
+  }
+  #video-container {
+    width: 100%;
+    height: auto; 
+    position: relative;
+  }
 
-				<!-- MODULE TITLE -->
-				<div class="row" >
-					<div class="col-md-12" ><a name="about"></a>
-           
-					
-                <center>  <div id="grad_div" >  <span id="graduate_projects_heading" >Graduate Projects</span> 
-                 </div>
-                    </center>
-                    
- <img  src="img/common/teaser.gif" width="100%" height="auto"/>
-					</div>
-				</div>
-            
-                      
-           
-            </div>
+  #video {
+    height: auto;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+  #video-description {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #video-description-text {
+    text-align: center;
+    color:#f05759;
+    font-family:Futura;
+    font-size:100px;
+  }
+</style>
             
             
 
