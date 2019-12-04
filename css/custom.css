@@ -327,9 +327,17 @@ img.nav-bar-img{
 
 .name_span
     {
+        color:black; font-size:22px;
+    }
+
+@media (min-width: 768px)
+{
+    .name_span
+    {
         color:white; font-size:22px;
     }
 
+}
 @media (min-width: 768px)
 {
     .typewrite {
