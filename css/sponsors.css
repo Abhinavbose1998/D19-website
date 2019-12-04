@@ -1,0 +1,426 @@
+ 
+      /*------------------------------------------------------------------*/
+      /*------------------------------------------------------------------*/
+      /*------------------------------------------------------------------*/
+      /*---------------------------SPONSORS PAGE--------------------------*/
+      /*------------------------------------------------------------------*/
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+.platinum
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/platinum.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+        margin-top:10%;
+        margin-left:17%;
+          
+        
+    }
+    
+    .platinum:hover 
+    {
+
+         transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+
+    
+@media (min-width: 768px)
+{
+     .platinum
+    {
+        height:auto;
+        width:100%;
+        background-image:url('../img/sponsors/platinum.png');
+       
+        background-repeat: no-repeat;
+         transition: transform .2s; /* Animation */
+      
+         margin-top:5%;
+        margin-left:10%;
+    }
+    
+    .platinum:hover 
+    {
+
+         transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+        
+        
+    }
+
+ 
+
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+    .gold
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/Gold.png');
+        background-size: contain;
+        margin-top:10%;
+        margin-left:20%;
+        background-repeat: no-repeat;
+         transition: transform .2s; /* Animation */
+        
+    }
+    
+    .gold:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    @media (min-width: 768px)
+{
+    
+       
+    
+    .gold
+    {
+        height:400px;
+        width:100%;
+        background-image:url('../img/sponsors/Gold.png');
+        background-size: contain;
+        margin-top:16%;
+        margin-left:10%;
+        background-repeat: no-repeat;
+         transition: transform .2s; /* Animation */
+       
+    }
+    
+    .gold:hover 
+    {
+
+         transform: scale(1.2);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+
+}
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+    .silver
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/silver2.png');
+        background-size: contain;
+        margin-top:10%;
+        margin-left:20%;
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .silver:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    
+@media (min-width: 768px)
+{
+    
+    .silver
+    {
+        height:300px;
+        width:110%;
+        background-image:url('../img/sponsors/silver2.png');
+        background-size: contain;
+        margin-top:40%;
+        margin-left:-50%;
+        background-repeat: no-repeat;
+        transition: transform .2s; 
+     
+        
+    }
+    
+    .silver:hover 
+    {
+
+         transform: scale(1.2);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+
+}
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .YH
+    {
+        height:100px;
+        width:100%;
+        background-image:url('../img/sponsors/YH-new-logo-4.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .YH:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .del
+    {
+        height:32px;
+        width:100%;
+        background-image:url('../img/sponsors/Deltatre%20logo%20-%20RGB_red.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .del:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .ns
+    {
+        height:150px;
+        width:100%;
+        background-image:url('../img/sponsors/NSlogo.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .ns:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .sm
+    {
+        height:200px;
+        width:100%;
+        background-image:url('../img/sponsors/SMU%20Logo.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .sm:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .line1
+    {
+       display:none;
+       
+        
+    }
+    
+
+       @media (min-width: 768px)
+{
+    .line1
+    {
+        height:auto;
+        width:8%;
+        padding-left:5%;
+        background-image:url('../img/common/line.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+             display:block;
+    
+       
+        
+    }
+}
+/*------------------------------------------------------------------*/
+    
+#bronze
+{
+    padding-left:0;padding-right:0%;margin-left:34%;
+}
+        
+
+   @media (min-width: 768px)
+{
+     
+    #bronze
+    {
+        padding-left:0%;padding-right:30%;margin-left:0%;
+    }
+
+}
+    
+/*------------------------------------------------------------------*/
+
+
+#bronze_heading
+{
+    font-size:22px;font-family:futura-bold; text-align:center;margin-top:50%;margin-left:-50%;
+
+}
+
+     @media (min-width: 768px)
+         
+     {
+        #bronze_heading
+{
+     font-size:22px;font-family:futura-bold; margin-top:10%; text-align:center;margin-left:-5%;
+   
+    
+}
+         }
+
+
+#PGS_container
+{
+    padding-left:8%;
+}
+    
+
+  @media (min-width: 768px)
+         
+     {
+      #PGS_container
+{
+     padding-left:0%;
+   
+    
+}
+         }

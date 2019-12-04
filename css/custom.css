@@ -1,0 +1,2379 @@
+
+@font-face 
+{
+  font-family: 'futura';
+  src: url('../fonts/futura.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'futura_bold';
+    src: url('../fonts/Futura-Bold.woff2') format('woff2'),
+        url('../fonts/Futura-Bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'futura_medium';
+    src: url('../fonts/FuturaBT-Medium.woff2') format('woff2'),
+        url('../fonts/FuturaBT-Medium.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face
+{
+  font-family: 'futura_medium';
+  src: url('../fonts/futura_medium.ttf') format('truetype');
+}
+
+
+body{
+
+	padding-top: 80px;
+    background-color: #fbf9fb;
+    font-family: futura;
+
+}
+
+/*--------------index page graduate heading-------------*/
+
+
+#index_graduates_heading
+{
+    color:#f05759;
+    font-family:Futura bold;
+    font-size:80px;
+   text-align:center;
+    margin-left: 10px;
+    
+}
+
+
+@media (min-width: 768px)
+{
+    #index_graduates_heading
+    {
+        color:#f05759;
+        font-family:Futura bold;
+        font-size:100px;
+        float:left;
+        text-align:left;
+        margin-left: 50px;
+    }
+}
+
+#heading20
+{
+    color:white;
+    font-family:Futura bold;
+    font-size:120px;
+    padding-left:0px;
+    margin-left:20%;
+}
+
+
+@media (min-width: 768px)
+{
+    #heading20
+    {
+        color:white;
+        font-family:Futura bold;
+        font-size:200px;
+        padding-left:0px;
+        margin-left:20%;
+    }
+}
+
+#heading19
+{
+    color:#f05759;
+    font-family:Futura bold;
+    font-size:120px;
+    margin-left:-15px;
+}
+
+
+@media (min-width: 768px)
+{
+    #heading19
+    {
+        color:#f05759;
+        font-family:Futura bold;
+        font-size:200px;
+        margin-left:-20px;
+    }
+}
+
+#Grad_quote
+{
+    font-size:20px;
+    padding-left:70px;
+    padding-right:30px;
+    padding-top:20px;
+    margin-left:-10px;
+    font-family:futura;
+    text-align:center;
+}
+
+@media (min-width: 768px)
+{
+    #Grad_quote
+    {
+        font-size:20px;
+        padding-left:80px;
+        padding-right:50px;
+        padding-top:20px;
+        margin-left:20px;
+        font-family:futura;
+    }
+}
+
+#meet_them_button
+{
+    font-family:futura;
+    background-color:#f05759;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:38%;
+    margin-bottom:50px;
+}
+
+
+@media (min-width: 768px)
+{
+    #meet_them_button
+    {
+        font-family:futura;
+        background-color:#f05759;
+        padding-left:30px;
+        padding-right:30px;
+        padding-top:20px;
+        padding-bottom:20px;
+        margin-left:42%;
+    }
+}
+
+/*--------------index page graduate heading finish-------------*/
+
+
+  #video_container
+    {
+        text-align:center;
+        width:100%;
+        height:auto;
+        margin-bottom:40px;
+    }
+    
+      #video_margins
+    {
+        width:100%;
+        height:auto;
+        margin-top:90px;
+    
+   
+        
+    }   
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+/* Add a grey background color on mouse-over */
+.btn:hover {
+  background-color: #ddd;
+}
+
+/* Add a dark background color to the active button */
+.btn.active {
+  background-color: #666;
+   color: white;
+}
+
+ 
+    .Explore_heading
+    {
+        font-family:futura_medium!important;
+        font-size:40px;
+        padding-top:10%;
+        color:black;
+    }
+     #gradshow_heading
+    {
+        text-align:center;
+      font-family:futura_medium;
+        margin-top:-70px;
+        font-size:25px;
+        margin-bottom:-5%;
+    }
+
+  
+
+#about_info
+{
+    font-family:futura;font-size:18px;padding-top:40px;
+}
+    
+     
+.map-container iframe{
+left:0;
+top:0;
+height:auto;
+width:100%;
+position:relative;
+}
+    
+/*Home*/
+
+
+/*Navbar Rules*/
+img.nav-bar-img{
+	margin-right: 10px;
+}
+
+.navbar{
+	background-color: #fff;
+
+}
+
+
+
+
+/*................................................................*/
+.typewrite {
+ 
+  text-align: left;
+  color:#f7dd47;
+    font-size: 40px;
+   padding-top:20px;
+       font-family:futura_bold !important;
+
+  
+}
+
+.typewrite2 {
+ 
+  text-align: center;
+  color:#f05759;
+    font-size: 80px;
+   padding-top:10px;
+       font-family:futura_bold !important;
+
+  
+}
+#typewrite_div
+{
+    text-align: center;
+    width:100%;
+    margin-left:1%;
+    margin-top:-2%;
+}
+/*................................................................*/
+
+.directions
+{
+    font-family:futura;
+    text-align :center;
+    padding-left:0;
+    padding-top:50px;
+ 
+}
+
+#event_brite
+{
+    
+    margin-bottom:50px;
+   
+   
+}
+
+
+.nav_changes
+{
+    padding-left:35px;
+    padding-top:30px;
+    text-align:center;
+}
+
+#map
+{
+    height:auto;
+    width:100%;
+}
+
+#event_info
+{
+    padding-top:60px;
+}
+
+#center_button
+{
+     text-align: center;
+    width:100%;
+    
+}
+
+
+.name_span
+    {
+        color:white; font-size:22px;
+    }
+
+@media (min-width: 768px)
+{
+    .typewrite {
+ 
+
+        color:#f7dd47;
+        font-size: 45px;
+        z-index:999;
+        padding-top:30px;
+        font-family:futura_bold !important;
+        margin-bottom:15%;
+        letter-spacing: 2pt;
+  
+
+}
+    
+    
+#center_button
+{
+     
+    text-align: left;
+    width:100%;
+    
+    
+}
+    
+    .nav_changes
+{
+    padding-left:0px;
+    padding-top:30px;
+    text-align:center;
+}
+    
+#event_info
+{
+    padding-top:70px;
+    padding-left:0px;
+
+}
+.module-subtitle 
+    {
+	text-align: center;
+	font-size: 13px;
+	margin-bottom: 70px;
+    
+    padding-left:250px;
+    padding-right:250px;
+    color: #777;
+    
+}
+
+ 
+    .directions
+{
+    font-family:futura;
+    padding-left:18%;
+    padding-top:50px;
+    color:white;
+     text-align :left;
+}
+
+    #event_brite
+{
+    margin-left:18%;
+    margin-top:15px;
+}
+
+ .module-subtitle2 
+    {
+	text-align: center;
+	font-family: "";
+    font-size:36px;
+    opacity:0.5;  
+    color: #a49727;
+       
+
+}
+.module-title + .module-subtitle {
+	margin-top: -35px;
+}
+
+    
+    /*---------------*/
+  
+    .module, .module-small {
+padding: 140px 0;
+position: relative;
+background-repeat: no-repeat;
+background-position: center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+    
+    .map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+  
+  
+   
+    
+    @media (min-width: 768px)
+{
+    #video_margins
+    {
+        width:700px;
+        height:425px;
+        margin-top:120px;
+    
+    
+        
+    }
+    
+    
+    #video_container
+    {
+        text-align:center;
+        width:600px; 
+        height:auto;
+         margin-bottom:165px;
+            margin-left:-10%;
+    }
+    
+    
+    .Explore_heading
+    {
+        font-family:futura_medium!important;
+        font-size:55px;
+        padding-top:0px;
+        color:black;
+    }
+    
+    #gradshow_heading
+    {
+        text-align:left!important;
+        font-family:futura_medium !important;
+        font-size:25px !important; 
+        padding-left:18.5% !important; 
+    }
+    
+    .welcome-message{
+	margin-top: 475px;
+    margin-left:-180px;
+    }
+    
+    
+    
+    .map-container iframe
+    {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+
+    
+#about_info
+{
+    font-family:futura;font-size:18px;padding-top:30px;
+}
+    
+}
+    
+         
+/*--SCROLLER--*/
+.icon-scroll,
+.icon-scroll:before
+        {
+  position: absolute;
+  left: 50%;
+        }
+
+.icon-scroll
+        {
+  width: 40px;
+  height: 70px;
+  margin-left: 0px;
+  top: 100%;
+  margin-top: -35px;
+  box-shadow: inset 0 0 0 0px pink;
+  border-radius: 25px;
+        }
+
+.icon-scroll:before
+{
+  content: '';
+  width: 14px;
+  height: 14px;
+  background: pink;
+  margin-left: -4px;
+  top: 20px;
+  border-radius: 10px;
+  animation-duration: 1.5s;
+  animation-iteration-count:infinite;
+  animation-name: scroll;
+
+}
+        @keyframes scroll{
+            0%{
+                opacity: 1;}
+            100%{
+          opacity: 0;
+            transform: translateY(46px)
+        }
+        }
+        
+    
+/*-----------*/
+    
+
+
+
+/*index gallery*/
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/*---------------*/
+
+
+
+.gallery-box {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    overflow:hidden;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom:20px;
+     border-radius:100%;
+}
+    
+
+    
+
+.gallery-box .gallery-box-caption {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    opacity: 0;
+    background: rgba(242, 222, 232,.6);
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+    z-index:999;
+      border-radius:100%;
+   
+}
+
+.gallery-box .gallery-box-caption .gallery-box-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    transform: translateY(-50%);
+         border-radius:100%;
+}
+    
+.gallery-box:hover .gallery-box-caption {
+    opacity: 1;
+}
+
+.gallery-box:hover img {
+    -webkit-transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    transform: scale(1.0);
+         border-radius:100%;
+}
+
+.gallery-box img {
+    -webkit-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+         border-radius:100%;
+}
+
+
+.no-gutter > [class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+
+
+a:hover {
+    cursor: pointer;
+}
+
+
+}
+/*------------------------------------------------------------------*/
+    
+
+.hoverImg 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/abhinav.jpg');
+    background-size: contain;
+}
+
+.hoverImg:hover {
+    background-image:url('../img/student_images/Abhinav%20f.jpg');    
+}
+
+    
+/*------------------------------------------------------------------*/
+    
+
+.hoverImga 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/abhinav.jpg');
+    background-size: contain;
+}
+
+.hoverImg:hover {
+    background-image:url('../img/student_images/Abhinav%20f.jpg');    
+}
+
+    
+/*------------------------------------------------------------------*/
+    
+
+.hoverImga 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/adam.jpg');
+    background-size: contain;
+}
+
+.hoverImga:hover {
+    background-image:url('../img/student_images/adam%20f.jpg');    
+}
+
+        /*------------------------------------------------------------------*/
+    
+
+.hoverImgb 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/andrew.jpg');
+    background-size: contain;
+}
+
+.hoverImgb:hover {
+    background-image:url('../img/student_images/andrew%20f.jpg');    
+}
+
+    
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgc 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/angi.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.hoverImgc:hover {
+    background-image:url('../img/student_images/angi%20f.jpg');  
+        background-repeat: no-repeat;
+}
+
+     /*------------------------------------------------------------------*/
+    
+
+.hoverImgd 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/annie.jpg');
+    background-size: contain;
+}
+
+.hoverImgd:hover {
+    background-image:url('../img/student_images/annie%20f.jpg');    
+}
+
+        /*------------------------------------------------------------------*/
+    
+
+.hoverImge 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/ben.jpg');
+    background-size: contain;
+}
+
+.hoverImge:hover {
+    background-image:url('../img/student_images/ben%20f.jpg');    
+}
+
+    
+        /*------------------------------------------------------------------*/
+    
+
+.hoverImgf 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Ce.jpg');
+    background-size: contain;
+}
+
+.hoverImgf:hover {
+    background-image:url('../img/student_images/Ce%20f.jpg');    
+}
+
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgg 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/CeliaS.jpg');
+    background-size: contain;
+}
+
+.hoverImgg:hover {
+    background-image:url('../img/student_images/CeliaS%20f.jpg');    
+}
+
+       /*------------------------------------------------------------------*/
+    
+
+.hoverImgh 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/dominic.jpg');
+    background-size: contain;
+}
+
+.hoverImgh:hover {
+    background-image:url('../img/student_images/dominic%20f.jpg');    
+}
+
+           /*------------------------------------------------------------------*/
+    
+
+.hoverImgi 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/daniel.jpg');
+    background-size: contain;
+}
+
+.hoverImgi:hover {
+    background-image:url('../img/student_images/daniel%20f.jpg');    
+}
+
+    
+           /*------------------------------------------------------------------*/
+    
+
+.hoverImgj 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/darren.jpg');
+    background-size: contain;
+}
+
+.hoverImgj:hover {
+    background-image:url('../img/student_images/darren%20f.jpg');    
+}
+
+    
+    
+           /*------------------------------------------------------------------*/
+    
+
+.hoverImgk 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Lizy.jpg');
+    background-size: contain;
+}
+
+.hoverImgk:hover {
+    background-image:url('../img/student_images/Lizy%20f.jpg');    
+}
+
+    
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgl 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/edmond.jpg');
+    background-size: contain;
+}
+
+.hoverImgl:hover {
+    background-image:url('../img/student_images/edmond%20f.jpg');    
+}
+
+    
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgm 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/evelyn.jpg');
+    background-size: contain;
+}
+
+.hoverImgm:hover {
+    background-image:url('../img/student_images/evelyn%20f.jpg');    
+}
+
+    
+    
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgn 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/fuad.jpg');
+    background-size: contain;
+}
+
+.hoverImgn:hover {
+    background-image:url('../img/student_images/fuad%20f.jpg');    
+}
+
+    
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgo 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Celia.jpg');
+    background-size: contain;
+}
+
+.hoverImgo:hover {
+    background-image:url('../img/student_images/Celia%20f.jpg');    
+}
+
+     
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgp 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/hamish.jpg');
+    background-size: contain;
+}
+
+.hoverImgp:hover {
+    background-image:url('../img/student_images/hamish%20f.jpg');    
+}
+
+          /*------------------------------------------------------------------*/
+    
+
+.hoverImgq 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/han.jpg');
+    background-size: contain;
+}
+
+.hoverImgq:hover {
+    background-image:url('../img/student_images/han%20f.jpg');    
+}
+
+       /*------------------------------------------------------------------*/
+    
+
+.hoverImgr 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Ian.jpg');
+    background-size: contain;
+}
+
+.hoverImgr:hover {
+    background-image:url('../img/student_images/Ian%20f.jpg');    
+}
+
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgs 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/james.jpg');
+    background-size: contain;
+}
+
+.hoverImgs:hover {
+    background-image:url('../img/student_images/james%20f.jpg');    
+}
+
+    
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgt 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/josh.jpg');
+    background-size: contain;
+}
+
+.hoverImgt:hover {
+    background-image:url('../img/student_images/josh%20f.jpg');    
+}
+
+    
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgu 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/jace.jpg');
+    background-size: contain;
+}
+
+.hoverImgu:hover {
+    background-image:url('../img/student_images/jace%20f.jpg');    
+}
+
+          /*------------------------------------------------------------------*/
+    
+
+.hoverImgv 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Jaeho.jpg');
+    background-size: contain;
+}
+
+.hoverImgv:hover {
+    background-image:url('../img/student_images/Jaeho%20f.jpg');    
+}
+
+    
+          /*------------------------------------------------------------------*/
+    
+
+.hoverImgw 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/james%20mg.jpg');
+    background-size: contain;
+}
+
+.hoverImgw:hover {
+    background-image:url('../img/student_images/james%20mg%20f.jpg');    
+}
+
+           /*------------------------------------------------------------------*/
+    
+
+.hoverImgx 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/jared.jpg');
+    background-size: contain;
+}
+
+.hoverImgx:hover {
+    background-image:url('../img/student_images/jared%20f.jpg');    
+}
+
+    
+           /*------------------------------------------------------------------*/
+    
+
+.hoverImgy 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/jason.jpg');
+    background-size: contain;
+}
+
+.hoverImgy:hover {
+    background-image:url('../img/student_images/jason%20f.jpg');    
+}
+
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgz 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/jess.jpg');
+    background-size: contain;
+}
+
+.hoverImgz:hover {
+    background-image:url('../img/student_images/jess%20f.jpg');    
+}
+
+    
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgaa 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/jx.jpg');
+    background-size: contain;
+}
+
+        
+.hoverImgaa:hover {
+    background-image:url('../img/student_images/jx%20f.jpg');    
+}
+
+     /*------------------------------------------------------------------*/
+
+.hoverImgbb 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/jodie.jpg');
+    background-size: contain;
+}
+
+        
+.hoverImgbb:hover {
+    background-image:url('../img/student_images/jodie%20f.jpg');    
+}
+    /*------------------------------------------------------------------*/
+    
+
+.hoverImgcc 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Madeleine.jpg');
+    background-size: contain;
+}
+
+.hoverImgcc:hover {
+    background-image:url('../img/student_images/Madeleine%20f.jpg');    
+}
+
+        /*------------------------------------------------------------------*/
+    
+
+.hoverImgdd 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/mandy.jpg');
+    background-size: contain;
+}
+
+.hoverImgdd:hover {
+    background-image:url('../img/student_images/mandy%20f.jpg');    
+}
+
+           /*------------------------------------------------------------------*/
+    
+
+.hoverImgee 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/maya.jpg');
+    background-size: contain;
+}
+
+.hoverImgee:hover {
+    background-image:url('../img/student_images/maya%20f.jpg');    
+}
+
+    
+              /*------------------------------------------------------------------*/
+    
+
+.hoverImgff 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Mitch.jpg');
+    background-size: contain;
+}
+
+.hoverImgff:hover {
+    background-image:url('../img/student_images/Mitch%20f.jpg');    
+}
+
+              /*------------------------------------------------------------------*/
+    
+
+.hoverImggg 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Monica.jpg');
+    background-size: contain;
+}
+
+.hoverImggg:hover {
+    background-image:url('../img/student_images/Monica%20f.jpg');    
+}
+
+    
+          /*------------------------------------------------------------------*/
+    
+
+.hoverImghh 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/maysa.jpg');
+    background-size: contain;
+}
+
+.hoverImghh:hover {
+    background-image:url('../img/student_images/maysa%20f.jpg');    
+}
+
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgii 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/mikkel.jpg');
+    background-size: contain;
+}
+
+.hoverImgii:hover {
+    background-image:url('../img/student_images/mikkel%20f.jpg');    
+}
+
+    
+         /*------------------------------------------------------------------*/
+    .hoverImganna
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/anna.jpg');
+    background-size: contain;
+}
+
+.hoverImganna:hover {
+    background-image:url('../img/student_images/anna%20f.jpg');    
+}
+
+
+.hoverImgjj 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/min.jpg');
+    background-size: contain;
+}
+
+.hoverImgjj:hover {
+    background-image:url('../img/student_images/min%20f.jpg');    
+}
+
+    
+        /*------------------------------------------------------------------*/
+    
+
+.hoverImgkk 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/evelyn.jpg');
+    background-size: contain;
+}
+
+.hoverImgkk:hover {
+    background-image:url('../img/student_images/evelyn%20f.jpg');    
+}
+
+    
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgll 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/miriam.jpg');
+    background-size: contain;
+}
+
+.hoverImgll:hover {
+    background-image:url('../img/student_images/miriam%20f.jpg');    
+}
+
+    
+    
+         /*------------------------------------------------------------------*/
+    
+
+.hoverImgmm 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Nicholas%20ho.jpg');
+    background-size: contain;
+}
+
+.hoverImgmm:hover {
+    background-image:url('../img/student_images/Nicholas%20ho%20f.jpg');    
+}
+
+    
+     /*------------------------------------------------------------------*/
+    
+
+.hoverImgnn 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Natalia.jpg');
+    background-size: contain;
+}
+
+.hoverImgnn:hover {
+    background-image:url('../img/student_images/Natalia%20f.jpg');    
+}
+
+    
+      /*------------------------------------------------------------------*/
+    
+
+.hoverImgoo 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Nicholas%20.jpg');
+    background-size: contain;
+}
+
+.hoverImgoo:hover {
+    background-image:url('../img/student_images/Nicholas%20f.jpg');    
+}
+
+    
+          /*------------------------------------------------------------------*/
+    
+
+.hoverImgpp 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/oliver.jpg');
+    background-size: contain;
+}
+
+.hoverImgpp:hover {
+    background-image:url('../img/student_images/oliver%20f.jpg');    
+}
+
+    
+            /*------------------------------------------------------------------*/
+    
+
+.hoverImgqq 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Patrick.jpg');
+    background-size: contain;
+}
+
+.hoverImgqq:hover {
+    background-image:url('../img/student_images/Patrick%20f.jpg');    
+}
+
+    
+            /*------------------------------------------------------------------*/
+    
+
+.hoverImgrr 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/penny.jpg');
+    background-size: contain;
+}
+
+.hoverImgrr:hover {
+    background-image:url('../img/student_images/penny%20f.jpg');    
+}
+
+    
+             /*------------------------------------------------------------------*/
+    
+
+.hoverImgss 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/pat.jpg');
+    background-size: contain;
+}
+
+.hoverImgss:hover {
+    background-image:url('../img/student_images/pat%20f.jpg');    
+}
+
+    
+    
+             /*------------------------------------------------------------------*/
+    
+
+.hoverImgtt 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/rachel.jpg');
+    background-size: contain;
+}
+
+.hoverImgtt:hover {
+    background-image:url('../img/student_images/rachel%20f.jpg');    
+}
+
+    
+     
+             /*------------------------------------------------------------------*/
+    
+
+.hoverImguu 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/ray.jpg');
+    background-size: contain;
+}
+
+.hoverImguu:hover {
+    background-image:url('../img/student_images/ray%20f.jpg');    
+}
+
+    
+            /*------------------------------------------------------------------*/
+    
+
+.hoverImgvv 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/reg.jpg');
+    background-size: contain;
+}
+
+.hoverImgvv:hover {
+    background-image:url('../img/student_images/reg%20f.jpg');    
+}
+
+    
+             /*------------------------------------------------------------------*/
+    
+
+.hoverImgww 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/selina.jpg');
+    background-size: contain;
+}
+
+.hoverImgww:hover {
+    background-image:url('../img/student_images/selina%20f.jpg');    
+}
+
+    
+             /*------------------------------------------------------------------*/
+    
+
+.hoverImgxx 
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/taha.jpg');
+    background-size: contain;
+}
+
+.hoverImgxx:hover {
+    background-image:url('../img/student_images/taha%20f.jpg');    
+}
+
+    
+     /*------------------------------------------------------------------*/
+    
+.hoverImgyy
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/tom.jpg');
+    background-size: contain;
+}
+
+.hoverImgyy:hover {
+    background-image:url('../img/student_images/tom%20f.jpg');    
+}
+ /*------------------------------------------------------------------*/
+    
+    
+    .hoverImgzz
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/Tram.jpg');
+    background-size: contain;
+}
+
+.hoverImgzz:hover {
+    background-image:url('../img/student_images/tram%20f.jpg');    
+}
+
+     /*------------------------------------------------------------------*/
+    
+    
+    .hoverImgaaa
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/travis.jpg');
+    background-size: contain;
+}
+
+.hoverImgaaa:hover {
+    background-image:url('../img/student_images/travis%20f.jpg');    
+}
+
+      /*------------------------------------------------------------------*/
+    
+    
+    .hoverImgbbb
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/victoria.jpg');
+    background-size: contain;
+}
+
+.hoverImgbbb:hover {
+    background-image:url('../img/student_images/victoria%20f.jpg');    
+}
+
+      /*------------------------------------------------------------------*/
+    
+    
+    .hoverImgccc
+{
+    height:300px;
+    width:300px;
+    background-image:url('../img/student_images/yi.jpg');
+    background-size: contain;
+}
+
+.hoverImgccc:hover {
+    background-image:url('../img/student_images/yi%20f.jpg');    
+}
+
+    
+    
+      /*------------------------------------------------------------------*/
+      /*------------------------------------------------------------------*/
+      /*------------------------------------------------------------------*/
+      /*---------------------------SPONSORS PAGE--------------------------*/
+      /*------------------------------------------------------------------*/
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+    
+      /*------------------------------------------------------------------*/
+}
+        
+
+   
+
+    
+@media (min-width: 768px)
+{
+     .platinum
+    {
+        height:auto;
+        width:100%;
+        background-image:url('../img/sponsors/platinum.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+         transition: transform .2s; /* Animation */
+        
+    }
+    
+    .platinum:hover 
+    {
+
+         transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+        
+        
+    }
+
+ .platinum
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/platinum.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+        margin-top:10%;
+        margin-left:10%;
+            margin-top:10%;
+        margin-left:18%;
+       
+        
+    }
+    
+    .platinum:hover 
+    {
+
+         transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+    .gold
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/Gold.png');
+        background-size: contain;
+        margin-top:10%;
+        margin-left:20%;
+        background-repeat: no-repeat;
+         transition: transform .2s; /* Animation */
+        
+    }
+    
+    .gold:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    @media (min-width: 768px)
+{
+    
+       
+    
+    .gold
+    {
+        height:auto;
+        width:100%;
+        background-image:url('../img/sponsors/Gold.png');
+        background-size: contain;
+        margin-top:10%;
+        margin-left:10%;
+        background-repeat: no-repeat;
+         transition: transform .2s; /* Animation */
+        
+    }
+    
+    .gold:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+
+}
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+    .silver
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/silver2.png');
+        background-size: contain;
+        margin-top:10%;
+        margin-left:20%;
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .silver:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    
+@media (min-width: 768px)
+{
+    
+    .silver
+    {
+        height:300px;
+        width:100%;
+        background-image:url('../img/sponsors/silver2.png');
+        background-size: contain;
+        margin-top:35%;
+        margin-left:-52%;
+        background-repeat: no-repeat;
+        transition: transform .2s; 
+       
+        
+    }
+    
+    .silver:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.9s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+
+}
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .YH
+    {
+        height:100px;
+        width:100%;
+        background-image:url('../img/sponsors/YH-new-logo-4.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .YH:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .del
+    {
+        height:32px;
+        width:100%;
+        background-image:url('../img/sponsors/Deltatre%20logo%20-%20RGB_red.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .del:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .ns
+    {
+        height:150px;
+        width:100%;
+        background-image:url('../img/sponsors/NSlogo.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .ns:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+    /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .sm
+    {
+        height:200px;
+        width:100%;
+        background-image:url('../img/sponsors/SMU%20Logo.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+        transition: transform .2s; /* Animation */
+       
+        
+    }
+    
+    .sm:hover 
+    {
+
+         transform: scale(1.1);
+        
+       transition: 0.5s;
+        transform-style: preserve-3d;
+      transition-property: all;
+        
+        
+        
+    }
+    
+    
+      /*------------------------------------------------------------------*/
+    
+    
+    
+    
+        
+    .line1
+    {
+        height:200px;
+        width:8%;
+        padding-left:5%;
+        background-image:url('../img/common/line.png');
+        background-size: contain;
+      
+        background-repeat: no-repeat;
+    
+       
+        
+    }
+    
+/*------------------------------------------------------------------*/
+    
+#bronze
+{
+    padding-left:5%;padding-right:0%;
+}
+        
+
+   @media (min-width: 768px)
+{
+     
+    #bronze
+    {
+        padding-left:0%;padding-right:8%;
+    }
+
+}
+    
+
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------Usyd Design Courses-----------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+
+    
+    #bdescompinfo
+{
+    
+    padding-left:5%;
+     margin-top:30px;
+}
+
+
+   @media (min-width: 768px)
+{
+     
+    #bdescompinfo
+    {
+        padding-left:5%;
+        
+       margin-top:4px;
+    }
+
+}
+
+/*------------------------------------------------------------------*/
+
+#mideainfo
+{
+    
+    padding-top:0%;
+     margin-top:50px;
+}
+
+@media (min-width: 768px)
+{
+     
+     #mideainfo
+    {
+        padding-left:0%;
+        
+       margin-top:7%;
+    }
+
+}
+
+
+
+#mideavideo
+{
+    
+   margin-top:8%;
+}
+
+@media (min-width: 768px)
+{
+    
+    #mideavideo
+    {
+      margin-top:0px;
+
+    }
+
+    
+}
+
+#courses_container
+{
+    margin-top:12%;
+}
+
+
+
+@media (min-width: 768px)
+{
+    
+        #courses_container
+    {
+        margin-top:7%;
+    }
+
+    
+}
+
+
+
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*----------------------------D19 team------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+
+
+#line_hide
+{
+    display: none;
+
+}
+
+
+@media (min-width: 768px)
+{
+    
+    #line_hide
+    {
+        display: block;
+
+    }
+
+
+    
+}
+
+
+#d19_team_container
+{
+    padding-top:10%;
+}
+
+
+@media (min-width: 768px)
+{
+    
+    #d19_team_container
+    {
+         padding-top:0%;
+
+    }
+
+}
+
+
+
+
+
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*-------------------Sponcers on Index------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+
+
+
+#i_syple
+{
+    margin-top:0%;
+    margin-left:20%;
+    height:250px;
+    width:300px  ;
+}
+
+@media (min-width: 768px)
+{
+   
+    #i_syple
+    {
+        margin-top:20%;
+        margin-left:10%;
+        height:400px;
+        width:400px  ;
+    }
+}
+
+/*------------------------------------------------------------------*/
+
+#i_atlassian
+{
+     height:300px;
+     width:300px; 
+     margin-top:-40px;
+     margin-left:17%;
+}
+
+@media (min-width: 768px)
+{
+   
+    
+    #i_atlassian
+    {
+         height:230px;
+         width:230px; 
+         margin-top:10%;
+         margin-left:0%;
+    }
+    
+}
+
+/*------------------------------------------------------------------*/
+
+#i_allplastics
+{
+    height:200px;
+    width:300px;
+    margin-left:17%;
+    margin-top:12%;
+    
+ 
+}
+
+@media (min-width: 768px)
+{
+   
+    #i_allplastics
+    {
+        height:150px;
+        width:200px;
+        margin-left:10%;
+        margin-top:13%;
+        
+      
+    }
+
+}
+
+/*------------------------------------------------------------------*/
+
+#i_ey
+{
+    height:350px;
+    width:450px;
+    margin-left:1%;
+    margin-top:0%;
+}
+
+@media (min-width: 768px)
+{
+   
+       #i_ey
+    {
+        height:300px;
+        width:400px;
+        margin-left:10%;
+        margin-top:-10%;
+    }
+
+
+}
+
+/*------------------------------------------------------------------*/
+
+#i_yh
+{
+    height:150px;
+    width:400px; 
+    margin-top:8%;
+    padding-left:10%;
+    padding-right:10%;
+    margin-left:7%;
+}
+
+
+@media (min-width: 768px)
+{
+        #i_yh
+    {
+        height:100px;
+        width:250px; 
+        margin-top:110px;
+        padding-left:13%;
+        padding-right:10%;
+        margin-left:-5%;
+    }
+
+}
+
+/*------------------------------------------------------------------*/
+
+#i_del
+{
+    height:50px;
+    width:400px;
+    margin-top:25%;
+    padding-left:10%;
+    padding-right:10%;
+    margin-left:8%;
+
+}
+
+@media (min-width: 768px)
+{
+        #i_del
+    {
+        height:auto;
+        width:100%;
+        margin-top:130px;
+        padding-left:10%;
+        padding-right:10%;
+        margin-left:5%;
+    }
+}
+
+/*------------------------------------------------------------------*/
+
+#i_ns
+{
+    height:250px;
+    width:380px;
+    margin-top:100px;
+    padding-left:10%;
+    padding-right:10%;
+    margin-left:7%;
+}
+
+@media (min-width: 768px)
+{
+    #i_ns
+    {
+        height:160px;
+        width:95%;
+        margin-top:80px;
+        padding-left:10%;
+        padding-right:10%;
+        margin-left:2%;
+    }
+
+}
+
+
+/*------------------------------------------------------------------*/
+
+
+#i_smu
+{
+    height:290px;
+    width:380px;
+    margin-top:100px;
+    padding-left:10%;
+    padding-right:10%;
+    margin-left:5%;
+}
+
+@media (min-width: 768px)
+{
+    #i_smu
+    {
+        height:180px;
+        width:85%;
+        margin-top:60px;
+        padding-left:10%;
+        padding-right:10%;
+        margin-left:0%;
+
+    }
+}
+
+
+
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+
+
+#explore_project_button
+{
+     font-family:futura;
+    background-color:#f05759;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:0%;
+    margin-bottom:50px;
+}
+
+
+@media (min-width: 768px)
+{
+  #explore_project_button
+{
+     font-family:futura;
+    background-color:#f05759;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:0%;
+    margin-bottom:50px;
+    margin-top:-50px;
+}
+
+}
+
+
+#graduate_projects_heading
+{
+    color:#f05759;font-family:Futura bold;font-size:40px;
+}
+
+
+
+@media (min-width: 768px)
+{
+        #graduate_projects_heading
+        {
+            color:#f05759;font-family:Futura bold;font-size:80px;
+        }
+}
+
+#grad_div
+{
+    width:100%;height:auto; text-align: center; position:absolute; margin-top:9%;margin-left:-20px;
+}
+
+@media (min-width: 768px)
+{
+         #grad_div
+        {
+            width:100%;height:auto; text-align: center; position:absolute; margin-top:12%;
+        }
+
+}
+
+#cars
+{
+    top:101%!important;
+}
+
+@media (min-width: 768px)
+{
+     #cars
+    {
+        top:110%!important;
+    }
+
+}
